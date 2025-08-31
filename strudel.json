@@ -1,0 +1,12 @@
+{
+  "_base": "http://localhost:5432/house_samples/",
+
+  "bd": "bd_kick/*.wav",
+  "sd": "snare/*.wav",
+  "cp": "clap/*.wav",
+  "hh": "hats/*.wav",
+  "oh": "ride_cymbal/*.wav",
+  "perc": "percussion/*.wav",
+  "sh": "shaker_tambourine/*.wav",
+  "lt": "toms/*.wav"
+}
