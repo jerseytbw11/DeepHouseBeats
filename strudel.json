@@ -1,5 +1,5 @@
 {
-  "_base": "http://localhost:5432/house_samples/",
+  "_base": "https://raw.githubusercontent.com/jerseytbw11/DeepHouseBeats/main/",
 
   "bd": "bd_kick/*.wav",
   "sd": "snare/*.wav",
